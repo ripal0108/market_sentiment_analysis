@@ -22,11 +22,12 @@ The following analyses were performed:
 - Top Trader Analysis
 - Correlation Heatmap
 - Daily Profit Trend
+- 
 ## Fear & Greed
-<img width="994" height="528" alt="fear   greed" src="https://github.com/user-attachments/assets/f9b70fd4-184b-4743-afd4-c0cb16a68edd" />
+<img width="989" height="528" alt="fear   greed" src="https://github.com/user-attachments/assets/ff263b82-a9e0-42e1-8648-7622e85d2870" />
 
 ## Daily Profit Analysis
-<img width="1508" height="710" alt="daily profit" src="https://github.com/user-attachments/assets/be6b0c29-61e8-416d-83d3-bfb1b5505f87" />
+<img width="1421" height="710" alt="daily profit" src="https://github.com/user-attachments/assets/03ff7c46-0857-4730-894f-c30a6b89c134" />
 
 
 
